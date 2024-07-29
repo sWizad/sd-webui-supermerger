@@ -1195,7 +1195,7 @@ LBLCOKS26=["encoder",
 "diffusion_model_output_blocks_10_",
 "diffusion_model_output_blocks_11_",
 "embedders",
-"transformer_resblocks"]
+"transformer_resblocks_x"]
 
 ###########################################################
 ##### metadata
